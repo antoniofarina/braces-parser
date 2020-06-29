@@ -2,7 +2,7 @@
 parse a dtring char by char and emit events when meet open braces, closed braces, text
 
 
-# an to-develop idea
+# a to-develop idea
 /
 //Parse and transform to html
 let string_html = "";
@@ -76,7 +76,7 @@ test
       is_icu = false;
     }
   });
-*/
+
 
 
   
